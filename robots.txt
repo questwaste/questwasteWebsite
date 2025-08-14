@@ -1,0 +1,7 @@
+# Optimized robots.txt for questwaste.net
+
+User-agent: *
+Allow: /
+
+# Sitemap to guide crawlers
+Sitemap: https://questwaste.net/sitemap.xml
